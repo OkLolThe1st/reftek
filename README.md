@@ -4,7 +4,7 @@
 
 **Reftek** is a dynamically generated and easily customizable HTML-based interactive reference sheet system that takes displaying your original characters to a whole new level.
 
-Please keep in mind that this is not an art tool, rather, it makes the process of reference sheet creation more intersting. You have to supply the images of your OC yourself.
+Please keep in mind that this is not an art tool, rather, it makes the process of reference sheet creation more interesting. You have to supply the images of your OC yourself.
 
 # Features
 - All the refsheet content is stored in an annotated .js file, making Reftek easier for non-coder artists to use.
