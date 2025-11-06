@@ -10,6 +10,8 @@ const angleForm = document.getElementById("angleToggles")
 const outfitPic = document.getElementById("outfitguy")
 const angleTxt = document.getElementById("anglesText")
 const outfitTxt = document.getElementById("outfitsText")
+const angleSel = document.getElementById("angleSelector")
+const outfitSel = document.getElementById("outfitSelector")
 const hideMyAss = document.getElementById("hidetext")
 const titles = [
     document.getElementById("anglesTitle"),
@@ -54,10 +56,12 @@ function spawnInThings() {
     if (angles.length == 1) {
         document.getElementById("butt1").style.display = "none";
         document.getElementById("butt2").style.display = "none";
+        angleSel.classList.add("single-item")
     }
     if (outfits.length == 1) {
         document.getElementById("butt3").style.display = "none";
         document.getElementById("butt4").style.display = "none";
+        outfitSel.classList.add("single-item")
     }
     for (let i = 0; i < (info.length); i++) {
         if (info[i][1] == "h") {

@@ -14,7 +14,7 @@ const headers = [
 const angles = [
     ["?", "images/placeholder.png"],
     ["!", "images/placeholder.png"]
-]
+    ]
 
 // ANGLE TOGGLES
 // If there is only one element here it won't appear. To add the corresponding variants, upload images with "_[name of the toggle]" appended to their filename.
